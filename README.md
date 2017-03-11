@@ -1,2 +1,3 @@
 # dailichuan.github.io
-Lichuan Dai's personal portfolio
+
+Dai Lichuan's personal portfolio
